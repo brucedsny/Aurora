@@ -1,0 +1,36 @@
+# Contributing to GeriOS-Core
+
+Thank you for your interest in GeriOS-Core! We are building the foundational open-source infrastructure for the "Silver Economy," focusing on non-invasive, AI-driven care for the elderly.
+
+As an open-source project, we welcome contributions from developers, researchers, and caregivers who want to improve the quality of life for seniors worldwide.
+
+## How Can You Contribute?
+
+### 1. Reporting Bugs
+If you find a bug in our core modules (Circadian Anchor, Choice Reducer, etc.), please open an Issue on GitHub with:
+- A clear description of the problem.
+- Steps to reproduce the issue.
+- Your environment details.
+
+### 2. Suggesting Enhancements
+We are looking for ways to make our "Invisible Infrastructure" more robust. If you have ideas for new biometric telemetry or improved UI patterns for dementia care, please submit a feature request.
+
+### 3. Code Contributions
+We follow a standard Fork-and-Pull Request workflow:
+1. **Fork** the repository.
+2. **Create a branch** for your feature or fix (`git checkout -b feature/amazing-feature`).
+3. **Commit** your changes with clear messages.
+4. **Push** to the branch.
+5. **Open a Pull Request** describing your changes and how they benefit the geriatric care ecosystem.
+
+## Technical Focus Areas
+Currently, we are prioritizing contributions in:
+- **IoT Integration:** Expanding `circadian-anchor` compatibility with more smart home APIs.
+- **LLM Prompt Engineering:** Refining the `care-noise-filter` to better distinguish between clinical logistics and emotional data.
+- **Biometric Analytics:** Improving the accuracy of keystroke dynamics for cognitive fatigue detection.
+
+## Code of Conduct
+By participating in this project, you agree to maintain a respectful and inclusive environment. We are dedicated to building technology that serves the most vulnerable segments of our population with dignity.
+
+---
+*GeriOS-Core is a project dedicated to providing open-source tools for geriatric care. Help us ship code that matters.*
