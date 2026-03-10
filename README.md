@@ -26,6 +26,10 @@ Uses keystroke dynamics (inter-key latency) to detect motor slowing. This serves
 A digital signal processing (DSP) concept for floor-mic analysis. It identifies the acoustic frequency of "shuffling" feet to predict fall risks before they occur.
 - **Tech:** Python / Audio Frequency Analysis.
 
+### 6. `skin-health-analyzer` (Pressure Ulcer & Hydration Monitoring)
+A vision-based skin health module that continuously assesses pressure zones, skin hydration (turgor), and discoloration anomalies (pallor, jaundice, cyanosis). Alerts caregivers when high-risk conditions are detected to prevent pressure ulcers and dehydration in bedridden patients.
+- **Tech:** Python / Computer Vision (CNN / Color-Space Analysis).
+
 ## 📈 Ecosystem Significance (Ecosystem Impact Track)
 According to the **Section 2.2** of the Claude for OSS Program, this project serves as a **foundational package** for:
 - Health-tech NGOs.
