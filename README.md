@@ -26,6 +26,10 @@ Uses keystroke dynamics (inter-key latency) to detect motor slowing. This serves
 A digital signal processing (DSP) concept for floor-mic analysis. It identifies the acoustic frequency of "shuffling" feet to predict fall risks before they occur.
 - **Tech:** Python / Audio Frequency Analysis.
 
+### 6. `drive-duplicate-cleaner-agent` (Cloud Hygiene Automation)
+An automation agent for Google Drive that detects duplicate files and can safely move redundant copies to trash (supports dry-run mode by default).
+- **Tech:** Python / Google Drive API.
+
 ## 📈 Ecosystem Significance (Ecosystem Impact Track)
 According to the **Section 2.2** of the Claude for OSS Program, this project serves as a **foundational package** for:
 - Health-tech NGOs.
